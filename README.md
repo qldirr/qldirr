@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--타이틀 부분-->
 <div align="center">
   
-  ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Welcome%20to%20qldirr's%20github!!&fontAlignY=45&fontSize=40&height=150&animation=twinkling)
+  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20qldirr's%20github!!&fontAlign=70&fontAlignY=40&color=gradient&fontSize=30&fontColor=f2f9ff)
+  
+  <!-- ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Welcome%20to%20qldirr's%20github!!&fontAlignY=45&fontSize=40&height=150&animation=twinkling) -->
   
 </div>
 
@@ -58,8 +60,8 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <!-- <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp -->
 </div>
 
 <br>
@@ -88,11 +90,6 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="djwls0803@gmail.com">
-    <img
-      src="https://img.shields.io/badge/djwls0803@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  <a href="https://mont-blanc.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white&link=https://mont-blanc.tistory.com"/></a>&nbsp
+  <a href="djwls0803@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
 </div>
