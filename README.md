@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Mybatis-041E42?style=for-the-badge">
 </div>
 <br>
 <div align="center">
